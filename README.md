@@ -22,5 +22,5 @@ Selected projects will be featured here as they are developed.
 Contact
 GitHub: github.com/yahiamana
 
-Email: engineer.manayahia@gmail.com (mailto: engineer.manayahia@gmail.com) 
-LinkedIn: [linkedin.com/in/your-handle](https://www.linkedin.com/in/your-handle) 
+Email: engineer.manayahia@gmail.com 
+
